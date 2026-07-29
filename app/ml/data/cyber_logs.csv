@@ -1,0 +1,1251 @@
+text,label
+SELECT * FROM users WHERE,SQLInjection
+Cross-site scripting detected,XSS
+Unknown binary executed,Malware
+Executable launched from temp folder,Malware
+API request completed,Normal
+Multiple failed SSH login attempts,BruteForce
+SQL injection attempt,SQLInjection
+Cross-site scripting detected,XSS
+Password changed successfully,Normal
+Too many login attempts detected,BruteForce
+Account locked after login failures,BruteForce
+XSS payload blocked,XSS
+SSH brute force detected,BruteForce
+Email sent successfully,Normal
+DROP TABLE command detected,SQLInjection
+System health check passed,Normal
+Encoded PowerShell command executed,Malware
+API request completed,Normal
+PowerShell downloading payload,Malware
+DROP TABLE command detected,SQLInjection
+Account locked after login failures,BruteForce
+XSS payload blocked,XSS
+Executable launched from temp folder,Malware
+Report generated successfully,Normal
+Suspicious process spawned,Malware
+UNION SELECT detected,SQLInjection
+Suspicious process spawned,Malware
+Database backup completed,Normal
+Cross-site scripting detected,XSS
+Email sent successfully,Normal
+System health check passed,Normal
+Email sent successfully,Normal
+Unknown binary executed,Malware
+<script>alert('xss')</script>,XSS
+SELECT * FROM users WHERE,SQLInjection
+Malware signature detected,Malware
+Unknown binary executed,Malware
+Failed login from unknown IP,BruteForce
+<script>alert('xss')</script>,XSS
+Email sent successfully,Normal
+Encoded PowerShell command executed,Malware
+Report generated successfully,Normal
+SQL injection attempt,SQLInjection
+Malicious HTML submitted,XSS
+Javascript injected into input,XSS
+Database injection blocked,SQLInjection
+SSH brute force detected,BruteForce
+User logged in successfully,Normal
+Database injection blocked,SQLInjection
+Suspicious SQL statement,SQLInjection
+Cross-site scripting detected,XSS
+Malware signature detected,Malware
+Repeated password failures,BruteForce
+Report generated successfully,Normal
+Dashboard viewed,Normal
+File uploaded successfully,Normal
+Executable launched from temp folder,Malware
+SSH brute force detected,BruteForce
+UNION SELECT detected,SQLInjection
+Account locked after login failures,BruteForce
+PowerShell downloading payload,Malware
+API request completed,Normal
+User logged in successfully,Normal
+Executable launched from temp folder,Malware
+API request completed,Normal
+Cross-site scripting detected,XSS
+Database injection blocked,SQLInjection
+XSS payload blocked,XSS
+XSS payload blocked,XSS
+Multiple failed SSH login attempts,BruteForce
+Executable launched from temp folder,Malware
+Failed login from unknown IP,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Executable launched from temp folder,Malware
+XSS payload blocked,XSS
+Cross-site scripting detected,XSS
+Unknown binary executed,Malware
+Suspicious process spawned,Malware
+Database backup completed,Normal
+Rapid authentication failures,BruteForce
+Malicious HTML submitted,XSS
+Failed login from unknown IP,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Cross-site scripting detected,XSS
+Malware signature detected,Malware
+UNION SELECT detected,SQLInjection
+Database query contains OR 1=1,SQLInjection
+SELECT * FROM users WHERE,SQLInjection
+SSH brute force detected,BruteForce
+Database injection blocked,SQLInjection
+Report generated successfully,Normal
+Failed login from unknown IP,BruteForce
+Encoded PowerShell command executed,Malware
+Malware signature detected,Malware
+DROP TABLE command detected,SQLInjection
+Database backup completed,Normal
+SQL injection attempt,SQLInjection
+<script>alert('xss')</script>,XSS
+Repeated password failures,BruteForce
+System health check passed,Normal
+Malware signature detected,Malware
+DROP TABLE command detected,SQLInjection
+Multiple failed SSH login attempts,BruteForce
+Javascript injected into input,XSS
+SELECT * FROM users WHERE,SQLInjection
+Repeated password failures,BruteForce
+PowerShell downloading payload,Malware
+File uploaded successfully,Normal
+DROP TABLE command detected,SQLInjection
+Javascript injected into input,XSS
+Report generated successfully,Normal
+SQL injection attempt,SQLInjection
+Suspicious process spawned,Malware
+System health check passed,Normal
+Account locked after login failures,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Rapid authentication failures,BruteForce
+Account locked after login failures,BruteForce
+API request completed,Normal
+Failed login from unknown IP,BruteForce
+SQL injection attempt,SQLInjection
+Too many login attempts detected,BruteForce
+Admin login failed 15 times,BruteForce
+Too many login attempts detected,BruteForce
+Account locked after login failures,BruteForce
+Unknown binary executed,Malware
+Cross-site scripting detected,XSS
+UNION SELECT detected,SQLInjection
+XSS payload blocked,XSS
+<script>alert('xss')</script>,XSS
+PowerShell downloading payload,Malware
+Cross-site scripting detected,XSS
+Multiple failed SSH login attempts,BruteForce
+Dashboard viewed,Normal
+Encoded PowerShell command executed,Malware
+XSS payload blocked,XSS
+Too many login attempts detected,BruteForce
+Admin login failed 15 times,BruteForce
+Executable launched from temp folder,Malware
+Multiple failed SSH login attempts,BruteForce
+Too many login attempts detected,BruteForce
+Encoded PowerShell command executed,Malware
+SQL injection attempt,SQLInjection
+Failed login from unknown IP,BruteForce
+Unknown binary executed,Malware
+Unknown binary executed,Malware
+DROP TABLE command detected,SQLInjection
+Malware signature detected,Malware
+Cross-site scripting detected,XSS
+Password changed successfully,Normal
+Password changed successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+Suspicious SQL statement,SQLInjection
+XSS payload blocked,XSS
+Unknown binary executed,Malware
+Suspicious process spawned,Malware
+Javascript injected into input,XSS
+Suspicious SQL statement,SQLInjection
+Repeated password failures,BruteForce
+Email sent successfully,Normal
+SELECT * FROM users WHERE,SQLInjection
+Malware signature detected,Malware
+File uploaded successfully,Normal
+Configuration updated,Normal
+Executable launched from temp folder,Malware
+UNION SELECT detected,SQLInjection
+Account locked after login failures,BruteForce
+Suspicious process spawned,Malware
+Suspicious SQL statement,SQLInjection
+DROP TABLE command detected,SQLInjection
+Suspicious process spawned,Malware
+DROP TABLE command detected,SQLInjection
+Rapid authentication failures,BruteForce
+Database query contains OR 1=1,SQLInjection
+Encoded PowerShell command executed,Malware
+User logged in successfully,Normal
+API request completed,Normal
+Cross-site scripting detected,XSS
+Admin login failed 15 times,BruteForce
+<script>alert('xss')</script>,XSS
+UNION SELECT detected,SQLInjection
+Executable launched from temp folder,Malware
+Javascript injected into input,XSS
+SQL injection attempt,SQLInjection
+SQL injection attempt,SQLInjection
+SSH brute force detected,BruteForce
+Admin login failed 15 times,BruteForce
+SQL injection attempt,SQLInjection
+API request completed,Normal
+XSS payload blocked,XSS
+Javascript injected into input,XSS
+Malicious HTML submitted,XSS
+Suspicious SQL statement,SQLInjection
+Email sent successfully,Normal
+Executable launched from temp folder,Malware
+Failed login from unknown IP,BruteForce
+Account locked after login failures,BruteForce
+Javascript injected into input,XSS
+Account locked after login failures,BruteForce
+Malware signature detected,Malware
+Cross-site scripting detected,XSS
+SSH brute force detected,BruteForce
+XSS payload blocked,XSS
+Encoded PowerShell command executed,Malware
+Suspicious SQL statement,SQLInjection
+Repeated password failures,BruteForce
+Executable launched from temp folder,Malware
+Rapid authentication failures,BruteForce
+Database backup completed,Normal
+Javascript injected into input,XSS
+Cross-site scripting detected,XSS
+Executable launched from temp folder,Malware
+PowerShell downloading payload,Malware
+Suspicious SQL statement,SQLInjection
+UNION SELECT detected,SQLInjection
+Dashboard viewed,Normal
+SQL injection attempt,SQLInjection
+Configuration updated,Normal
+Email sent successfully,Normal
+SQL injection attempt,SQLInjection
+Database query contains OR 1=1,SQLInjection
+Failed login from unknown IP,BruteForce
+Cross-site scripting detected,XSS
+Repeated password failures,BruteForce
+PowerShell downloading payload,Malware
+Malicious HTML submitted,XSS
+Too many login attempts detected,BruteForce
+Javascript injected into input,XSS
+Repeated password failures,BruteForce
+Repeated password failures,BruteForce
+Encoded PowerShell command executed,Malware
+Malware signature detected,Malware
+Unknown binary executed,Malware
+<script>alert('xss')</script>,XSS
+DROP TABLE command detected,SQLInjection
+Suspicious SQL statement,SQLInjection
+Repeated password failures,BruteForce
+XSS payload blocked,XSS
+File uploaded successfully,Normal
+DROP TABLE command detected,SQLInjection
+Executable launched from temp folder,Malware
+Dashboard viewed,Normal
+Encoded PowerShell command executed,Malware
+SSH brute force detected,BruteForce
+<script>alert('xss')</script>,XSS
+File uploaded successfully,Normal
+PowerShell downloading payload,Malware
+Report generated successfully,Normal
+SELECT * FROM users WHERE,SQLInjection
+Admin login failed 15 times,BruteForce
+Report generated successfully,Normal
+System health check passed,Normal
+Failed login from unknown IP,BruteForce
+Admin login failed 15 times,BruteForce
+Database backup completed,Normal
+Failed login from unknown IP,BruteForce
+Suspicious process spawned,Malware
+Database query contains OR 1=1,SQLInjection
+SELECT * FROM users WHERE,SQLInjection
+SQL injection attempt,SQLInjection
+Failed login from unknown IP,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Account locked after login failures,BruteForce
+PowerShell downloading payload,Malware
+DROP TABLE command detected,SQLInjection
+Suspicious process spawned,Malware
+File uploaded successfully,Normal
+Failed login from unknown IP,BruteForce
+<script>alert('xss')</script>,XSS
+Failed login from unknown IP,BruteForce
+Javascript injected into input,XSS
+Rapid authentication failures,BruteForce
+Database query contains OR 1=1,SQLInjection
+Failed login from unknown IP,BruteForce
+Repeated password failures,BruteForce
+Executable launched from temp folder,Malware
+Malware signature detected,Malware
+XSS payload blocked,XSS
+Executable launched from temp folder,Malware
+Executable launched from temp folder,Malware
+Failed login from unknown IP,BruteForce
+Malicious HTML submitted,XSS
+Malicious HTML submitted,XSS
+Malware signature detected,Malware
+Encoded PowerShell command executed,Malware
+User logged in successfully,Normal
+Password changed successfully,Normal
+Suspicious process spawned,Malware
+Cross-site scripting detected,XSS
+Too many login attempts detected,BruteForce
+XSS payload blocked,XSS
+Suspicious process spawned,Malware
+System health check passed,Normal
+System health check passed,Normal
+XSS payload blocked,XSS
+XSS payload blocked,XSS
+Malware signature detected,Malware
+Repeated password failures,BruteForce
+SQL injection attempt,SQLInjection
+<script>alert('xss')</script>,XSS
+Encoded PowerShell command executed,Malware
+Encoded PowerShell command executed,Malware
+File uploaded successfully,Normal
+User logged in successfully,Normal
+Failed login from unknown IP,BruteForce
+<script>alert('xss')</script>,XSS
+Suspicious process spawned,Malware
+File uploaded successfully,Normal
+Too many login attempts detected,BruteForce
+Javascript injected into input,XSS
+API request completed,Normal
+Malware signature detected,Malware
+XSS payload blocked,XSS
+XSS payload blocked,XSS
+Encoded PowerShell command executed,Malware
+Executable launched from temp folder,Malware
+Admin login failed 15 times,BruteForce
+Database injection blocked,SQLInjection
+<script>alert('xss')</script>,XSS
+Email sent successfully,Normal
+Database injection blocked,SQLInjection
+Failed login from unknown IP,BruteForce
+User logged in successfully,Normal
+<script>alert('xss')</script>,XSS
+Malware signature detected,Malware
+<script>alert('xss')</script>,XSS
+PowerShell downloading payload,Malware
+DROP TABLE command detected,SQLInjection
+Malicious HTML submitted,XSS
+PowerShell downloading payload,Malware
+Database backup completed,Normal
+Suspicious process spawned,Malware
+Malware signature detected,Malware
+Javascript injected into input,XSS
+Unknown binary executed,Malware
+Rapid authentication failures,BruteForce
+Database injection blocked,SQLInjection
+SELECT * FROM users WHERE,SQLInjection
+Suspicious process spawned,Malware
+Database injection blocked,SQLInjection
+Unknown binary executed,Malware
+Database injection blocked,SQLInjection
+<script>alert('xss')</script>,XSS
+Suspicious SQL statement,SQLInjection
+Suspicious process spawned,Malware
+Too many login attempts detected,BruteForce
+Unknown binary executed,Malware
+<script>alert('xss')</script>,XSS
+Admin login failed 15 times,BruteForce
+Encoded PowerShell command executed,Malware
+<script>alert('xss')</script>,XSS
+Malicious HTML submitted,XSS
+Admin login failed 15 times,BruteForce
+DROP TABLE command detected,SQLInjection
+<script>alert('xss')</script>,XSS
+SQL injection attempt,SQLInjection
+Account locked after login failures,BruteForce
+Encoded PowerShell command executed,Malware
+<script>alert('xss')</script>,XSS
+DROP TABLE command detected,SQLInjection
+Cross-site scripting detected,XSS
+System health check passed,Normal
+SQL injection attempt,SQLInjection
+UNION SELECT detected,SQLInjection
+Cross-site scripting detected,XSS
+Suspicious process spawned,Malware
+Executable launched from temp folder,Malware
+Repeated password failures,BruteForce
+Account locked after login failures,BruteForce
+Unknown binary executed,Malware
+<script>alert('xss')</script>,XSS
+Suspicious process spawned,Malware
+File uploaded successfully,Normal
+Cross-site scripting detected,XSS
+Unknown binary executed,Malware
+UNION SELECT detected,SQLInjection
+DROP TABLE command detected,SQLInjection
+XSS payload blocked,XSS
+Suspicious SQL statement,SQLInjection
+System health check passed,Normal
+Failed login from unknown IP,BruteForce
+Database backup completed,Normal
+Report generated successfully,Normal
+Javascript injected into input,XSS
+<script>alert('xss')</script>,XSS
+User logged in successfully,Normal
+Javascript injected into input,XSS
+Malware signature detected,Malware
+API request completed,Normal
+Email sent successfully,Normal
+<script>alert('xss')</script>,XSS
+Executable launched from temp folder,Malware
+<script>alert('xss')</script>,XSS
+Failed login from unknown IP,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+System health check passed,Normal
+System health check passed,Normal
+SSH brute force detected,BruteForce
+Email sent successfully,Normal
+Account locked after login failures,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Malware signature detected,Malware
+<script>alert('xss')</script>,XSS
+Suspicious SQL statement,SQLInjection
+Rapid authentication failures,BruteForce
+Cross-site scripting detected,XSS
+Database injection blocked,SQLInjection
+Encoded PowerShell command executed,Malware
+Repeated password failures,BruteForce
+Account locked after login failures,BruteForce
+<script>alert('xss')</script>,XSS
+Malicious HTML submitted,XSS
+Javascript injected into input,XSS
+Encoded PowerShell command executed,Malware
+Javascript injected into input,XSS
+Rapid authentication failures,BruteForce
+Javascript injected into input,XSS
+Database query contains OR 1=1,SQLInjection
+Report generated successfully,Normal
+Javascript injected into input,XSS
+Admin login failed 15 times,BruteForce
+Malicious HTML submitted,XSS
+PowerShell downloading payload,Malware
+Javascript injected into input,XSS
+Malicious HTML submitted,XSS
+File uploaded successfully,Normal
+DROP TABLE command detected,SQLInjection
+<script>alert('xss')</script>,XSS
+DROP TABLE command detected,SQLInjection
+System health check passed,Normal
+Database backup completed,Normal
+Javascript injected into input,XSS
+DROP TABLE command detected,SQLInjection
+PowerShell downloading payload,Malware
+API request completed,Normal
+Rapid authentication failures,BruteForce
+XSS payload blocked,XSS
+Encoded PowerShell command executed,Malware
+Database backup completed,Normal
+Email sent successfully,Normal
+Dashboard viewed,Normal
+Encoded PowerShell command executed,Malware
+SELECT * FROM users WHERE,SQLInjection
+Rapid authentication failures,BruteForce
+Email sent successfully,Normal
+API request completed,Normal
+Database query contains OR 1=1,SQLInjection
+Cross-site scripting detected,XSS
+Unknown binary executed,Malware
+Database backup completed,Normal
+<script>alert('xss')</script>,XSS
+User logged in successfully,Normal
+<script>alert('xss')</script>,XSS
+Rapid authentication failures,BruteForce
+Repeated password failures,BruteForce
+Malicious HTML submitted,XSS
+Encoded PowerShell command executed,Malware
+Encoded PowerShell command executed,Malware
+SSH brute force detected,BruteForce
+User logged in successfully,Normal
+Database backup completed,Normal
+Unknown binary executed,Malware
+PowerShell downloading payload,Malware
+Multiple failed SSH login attempts,BruteForce
+Executable launched from temp folder,Malware
+Encoded PowerShell command executed,Malware
+Configuration updated,Normal
+Failed login from unknown IP,BruteForce
+PowerShell downloading payload,Malware
+Cross-site scripting detected,XSS
+Account locked after login failures,BruteForce
+Database query contains OR 1=1,SQLInjection
+Multiple failed SSH login attempts,BruteForce
+Account locked after login failures,BruteForce
+Javascript injected into input,XSS
+Javascript injected into input,XSS
+Password changed successfully,Normal
+Cross-site scripting detected,XSS
+System health check passed,Normal
+Cross-site scripting detected,XSS
+Admin login failed 15 times,BruteForce
+PowerShell downloading payload,Malware
+Encoded PowerShell command executed,Malware
+Account locked after login failures,BruteForce
+Database backup completed,Normal
+Report generated successfully,Normal
+PowerShell downloading payload,Malware
+Account locked after login failures,BruteForce
+SQL injection attempt,SQLInjection
+API request completed,Normal
+User logged in successfully,Normal
+Database injection blocked,SQLInjection
+User logged in successfully,Normal
+Rapid authentication failures,BruteForce
+Cross-site scripting detected,XSS
+Admin login failed 15 times,BruteForce
+Malware signature detected,Malware
+Admin login failed 15 times,BruteForce
+Database query contains OR 1=1,SQLInjection
+SQL injection attempt,SQLInjection
+PowerShell downloading payload,Malware
+Rapid authentication failures,BruteForce
+Encoded PowerShell command executed,Malware
+Rapid authentication failures,BruteForce
+Executable launched from temp folder,Malware
+Javascript injected into input,XSS
+SQL injection attempt,SQLInjection
+Failed login from unknown IP,BruteForce
+<script>alert('xss')</script>,XSS
+Database injection blocked,SQLInjection
+UNION SELECT detected,SQLInjection
+DROP TABLE command detected,SQLInjection
+SSH brute force detected,BruteForce
+Database backup completed,Normal
+UNION SELECT detected,SQLInjection
+Encoded PowerShell command executed,Malware
+SELECT * FROM users WHERE,SQLInjection
+Suspicious SQL statement,SQLInjection
+<script>alert('xss')</script>,XSS
+SELECT * FROM users WHERE,SQLInjection
+Cross-site scripting detected,XSS
+Configuration updated,Normal
+Configuration updated,Normal
+Multiple failed SSH login attempts,BruteForce
+Database injection blocked,SQLInjection
+Cross-site scripting detected,XSS
+Cross-site scripting detected,XSS
+User logged in successfully,Normal
+Email sent successfully,Normal
+File uploaded successfully,Normal
+Email sent successfully,Normal
+Account locked after login failures,BruteForce
+DROP TABLE command detected,SQLInjection
+DROP TABLE command detected,SQLInjection
+SQL injection attempt,SQLInjection
+SSH brute force detected,BruteForce
+Malicious HTML submitted,XSS
+Database injection blocked,SQLInjection
+Cross-site scripting detected,XSS
+Failed login from unknown IP,BruteForce
+Rapid authentication failures,BruteForce
+<script>alert('xss')</script>,XSS
+File uploaded successfully,Normal
+XSS payload blocked,XSS
+XSS payload blocked,XSS
+Failed login from unknown IP,BruteForce
+XSS payload blocked,XSS
+Admin login failed 15 times,BruteForce
+Executable launched from temp folder,Malware
+Database query contains OR 1=1,SQLInjection
+Email sent successfully,Normal
+PowerShell downloading payload,Malware
+<script>alert('xss')</script>,XSS
+PowerShell downloading payload,Malware
+Suspicious SQL statement,SQLInjection
+Executable launched from temp folder,Malware
+Suspicious SQL statement,SQLInjection
+Dashboard viewed,Normal
+Database query contains OR 1=1,SQLInjection
+Rapid authentication failures,BruteForce
+Cross-site scripting detected,XSS
+Repeated password failures,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Repeated password failures,BruteForce
+Rapid authentication failures,BruteForce
+Email sent successfully,Normal
+XSS payload blocked,XSS
+Repeated password failures,BruteForce
+User logged in successfully,Normal
+Database query contains OR 1=1,SQLInjection
+Password changed successfully,Normal
+File uploaded successfully,Normal
+Repeated password failures,BruteForce
+File uploaded successfully,Normal
+PowerShell downloading payload,Malware
+Dashboard viewed,Normal
+Password changed successfully,Normal
+SELECT * FROM users WHERE,SQLInjection
+Dashboard viewed,Normal
+Unknown binary executed,Malware
+XSS payload blocked,XSS
+User logged in successfully,Normal
+XSS payload blocked,XSS
+Encoded PowerShell command executed,Malware
+Password changed successfully,Normal
+Password changed successfully,Normal
+Password changed successfully,Normal
+Database backup completed,Normal
+Suspicious process spawned,Malware
+Javascript injected into input,XSS
+Rapid authentication failures,BruteForce
+Dashboard viewed,Normal
+Multiple failed SSH login attempts,BruteForce
+Admin login failed 15 times,BruteForce
+Database injection blocked,SQLInjection
+Account locked after login failures,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+DROP TABLE command detected,SQLInjection
+Database query contains OR 1=1,SQLInjection
+SSH brute force detected,BruteForce
+Dashboard viewed,Normal
+UNION SELECT detected,SQLInjection
+Failed login from unknown IP,BruteForce
+Report generated successfully,Normal
+Malicious HTML submitted,XSS
+Configuration updated,Normal
+DROP TABLE command detected,SQLInjection
+<script>alert('xss')</script>,XSS
+Suspicious process spawned,Malware
+PowerShell downloading payload,Malware
+Encoded PowerShell command executed,Malware
+Suspicious SQL statement,SQLInjection
+Malicious HTML submitted,XSS
+DROP TABLE command detected,SQLInjection
+PowerShell downloading payload,Malware
+PowerShell downloading payload,Malware
+Javascript injected into input,XSS
+Dashboard viewed,Normal
+Malicious HTML submitted,XSS
+PowerShell downloading payload,Malware
+Account locked after login failures,BruteForce
+Suspicious SQL statement,SQLInjection
+Malicious HTML submitted,XSS
+Database injection blocked,SQLInjection
+Database injection blocked,SQLInjection
+Email sent successfully,Normal
+Admin login failed 15 times,BruteForce
+Multiple failed SSH login attempts,BruteForce
+UNION SELECT detected,SQLInjection
+Password changed successfully,Normal
+Database query contains OR 1=1,SQLInjection
+Encoded PowerShell command executed,Malware
+Javascript injected into input,XSS
+Repeated password failures,BruteForce
+Unknown binary executed,Malware
+Account locked after login failures,BruteForce
+Malware signature detected,Malware
+SSH brute force detected,BruteForce
+DROP TABLE command detected,SQLInjection
+Database backup completed,Normal
+DROP TABLE command detected,SQLInjection
+Admin login failed 15 times,BruteForce
+Cross-site scripting detected,XSS
+Encoded PowerShell command executed,Malware
+PowerShell downloading payload,Malware
+Multiple failed SSH login attempts,BruteForce
+Repeated password failures,BruteForce
+SQL injection attempt,SQLInjection
+Password changed successfully,Normal
+Encoded PowerShell command executed,Malware
+SELECT * FROM users WHERE,SQLInjection
+Admin login failed 15 times,BruteForce
+Suspicious process spawned,Malware
+System health check passed,Normal
+Malicious HTML submitted,XSS
+Multiple failed SSH login attempts,BruteForce
+XSS payload blocked,XSS
+<script>alert('xss')</script>,XSS
+SSH brute force detected,BruteForce
+Suspicious SQL statement,SQLInjection
+UNION SELECT detected,SQLInjection
+XSS payload blocked,XSS
+Dashboard viewed,Normal
+Javascript injected into input,XSS
+Cross-site scripting detected,XSS
+System health check passed,Normal
+Suspicious SQL statement,SQLInjection
+XSS payload blocked,XSS
+DROP TABLE command detected,SQLInjection
+XSS payload blocked,XSS
+Email sent successfully,Normal
+Database backup completed,Normal
+Configuration updated,Normal
+Dashboard viewed,Normal
+User logged in successfully,Normal
+SQL injection attempt,SQLInjection
+Executable launched from temp folder,Malware
+User logged in successfully,Normal
+DROP TABLE command detected,SQLInjection
+Suspicious SQL statement,SQLInjection
+Failed login from unknown IP,BruteForce
+Account locked after login failures,BruteForce
+Account locked after login failures,BruteForce
+Database query contains OR 1=1,SQLInjection
+Malicious HTML submitted,XSS
+Suspicious process spawned,Malware
+Report generated successfully,Normal
+SSH brute force detected,BruteForce
+Executable launched from temp folder,Malware
+SELECT * FROM users WHERE,SQLInjection
+Email sent successfully,Normal
+Configuration updated,Normal
+Cross-site scripting detected,XSS
+XSS payload blocked,XSS
+Account locked after login failures,BruteForce
+Report generated successfully,Normal
+Javascript injected into input,XSS
+PowerShell downloading payload,Malware
+Admin login failed 15 times,BruteForce
+UNION SELECT detected,SQLInjection
+Admin login failed 15 times,BruteForce
+<script>alert('xss')</script>,XSS
+Suspicious SQL statement,SQLInjection
+UNION SELECT detected,SQLInjection
+DROP TABLE command detected,SQLInjection
+Suspicious SQL statement,SQLInjection
+Suspicious process spawned,Malware
+Configuration updated,Normal
+XSS payload blocked,XSS
+PowerShell downloading payload,Malware
+SELECT * FROM users WHERE,SQLInjection
+Admin login failed 15 times,BruteForce
+UNION SELECT detected,SQLInjection
+Report generated successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+Admin login failed 15 times,BruteForce
+Cross-site scripting detected,XSS
+Database backup completed,Normal
+Admin login failed 15 times,BruteForce
+Executable launched from temp folder,Malware
+API request completed,Normal
+Email sent successfully,Normal
+XSS payload blocked,XSS
+<script>alert('xss')</script>,XSS
+UNION SELECT detected,SQLInjection
+System health check passed,Normal
+<script>alert('xss')</script>,XSS
+Cross-site scripting detected,XSS
+Malicious HTML submitted,XSS
+Suspicious SQL statement,SQLInjection
+<script>alert('xss')</script>,XSS
+Suspicious SQL statement,SQLInjection
+SELECT * FROM users WHERE,SQLInjection
+User logged in successfully,Normal
+Cross-site scripting detected,XSS
+Database backup completed,Normal
+Suspicious process spawned,Malware
+SSH brute force detected,BruteForce
+Encoded PowerShell command executed,Malware
+Unknown binary executed,Malware
+Cross-site scripting detected,XSS
+XSS payload blocked,XSS
+Malware signature detected,Malware
+Encoded PowerShell command executed,Malware
+DROP TABLE command detected,SQLInjection
+UNION SELECT detected,SQLInjection
+SELECT * FROM users WHERE,SQLInjection
+Database injection blocked,SQLInjection
+Rapid authentication failures,BruteForce
+SSH brute force detected,BruteForce
+Password changed successfully,Normal
+SSH brute force detected,BruteForce
+Multiple failed SSH login attempts,BruteForce
+Malware signature detected,Malware
+Database query contains OR 1=1,SQLInjection
+Report generated successfully,Normal
+DROP TABLE command detected,SQLInjection
+XSS payload blocked,XSS
+Unknown binary executed,Malware
+API request completed,Normal
+UNION SELECT detected,SQLInjection
+Javascript injected into input,XSS
+Rapid authentication failures,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Suspicious SQL statement,SQLInjection
+SSH brute force detected,BruteForce
+SSH brute force detected,BruteForce
+Cross-site scripting detected,XSS
+Malicious HTML submitted,XSS
+UNION SELECT detected,SQLInjection
+PowerShell downloading payload,Malware
+Encoded PowerShell command executed,Malware
+SELECT * FROM users WHERE,SQLInjection
+SQL injection attempt,SQLInjection
+Encoded PowerShell command executed,Malware
+Too many login attempts detected,BruteForce
+Password changed successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Malware signature detected,Malware
+Database query contains OR 1=1,SQLInjection
+UNION SELECT detected,SQLInjection
+<script>alert('xss')</script>,XSS
+SELECT * FROM users WHERE,SQLInjection
+Javascript injected into input,XSS
+<script>alert('xss')</script>,XSS
+Password changed successfully,Normal
+<script>alert('xss')</script>,XSS
+DROP TABLE command detected,SQLInjection
+<script>alert('xss')</script>,XSS
+Executable launched from temp folder,Malware
+<script>alert('xss')</script>,XSS
+Database backup completed,Normal
+<script>alert('xss')</script>,XSS
+Malicious HTML submitted,XSS
+Suspicious process spawned,Malware
+Rapid authentication failures,BruteForce
+SSH brute force detected,BruteForce
+API request completed,Normal
+Too many login attempts detected,BruteForce
+DROP TABLE command detected,SQLInjection
+XSS payload blocked,XSS
+XSS payload blocked,XSS
+Dashboard viewed,Normal
+Suspicious process spawned,Malware
+Unknown binary executed,Malware
+Password changed successfully,Normal
+Encoded PowerShell command executed,Malware
+Suspicious SQL statement,SQLInjection
+PowerShell downloading payload,Malware
+Dashboard viewed,Normal
+Database query contains OR 1=1,SQLInjection
+DROP TABLE command detected,SQLInjection
+XSS payload blocked,XSS
+API request completed,Normal
+Javascript injected into input,XSS
+Report generated successfully,Normal
+Report generated successfully,Normal
+Admin login failed 15 times,BruteForce
+DROP TABLE command detected,SQLInjection
+Dashboard viewed,Normal
+Malicious HTML submitted,XSS
+Database backup completed,Normal
+Suspicious SQL statement,SQLInjection
+System health check passed,Normal
+Javascript injected into input,XSS
+Admin login failed 15 times,BruteForce
+Suspicious SQL statement,SQLInjection
+System health check passed,Normal
+<script>alert('xss')</script>,XSS
+Too many login attempts detected,BruteForce
+Suspicious SQL statement,SQLInjection
+File uploaded successfully,Normal
+Report generated successfully,Normal
+SELECT * FROM users WHERE,SQLInjection
+UNION SELECT detected,SQLInjection
+Encoded PowerShell command executed,Malware
+Report generated successfully,Normal
+Failed login from unknown IP,BruteForce
+Suspicious process spawned,Malware
+Javascript injected into input,XSS
+SSH brute force detected,BruteForce
+Account locked after login failures,BruteForce
+XSS payload blocked,XSS
+Cross-site scripting detected,XSS
+Dashboard viewed,Normal
+Multiple failed SSH login attempts,BruteForce
+Executable launched from temp folder,Malware
+<script>alert('xss')</script>,XSS
+Report generated successfully,Normal
+Cross-site scripting detected,XSS
+Repeated password failures,BruteForce
+Password changed successfully,Normal
+Report generated successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+API request completed,Normal
+Rapid authentication failures,BruteForce
+Report generated successfully,Normal
+Account locked after login failures,BruteForce
+SSH brute force detected,BruteForce
+Javascript injected into input,XSS
+Database injection blocked,SQLInjection
+System health check passed,Normal
+User logged in successfully,Normal
+Account locked after login failures,BruteForce
+Encoded PowerShell command executed,Malware
+Cross-site scripting detected,XSS
+File uploaded successfully,Normal
+DROP TABLE command detected,SQLInjection
+User logged in successfully,Normal
+Database query contains OR 1=1,SQLInjection
+Suspicious process spawned,Malware
+Dashboard viewed,Normal
+Admin login failed 15 times,BruteForce
+Encoded PowerShell command executed,Malware
+Too many login attempts detected,BruteForce
+Unknown binary executed,Malware
+Executable launched from temp folder,Malware
+DROP TABLE command detected,SQLInjection
+Multiple failed SSH login attempts,BruteForce
+Malware signature detected,Malware
+SELECT * FROM users WHERE,SQLInjection
+File uploaded successfully,Normal
+Too many login attempts detected,BruteForce
+<script>alert('xss')</script>,XSS
+Malicious HTML submitted,XSS
+Admin login failed 15 times,BruteForce
+Suspicious process spawned,Malware
+Database query contains OR 1=1,SQLInjection
+Configuration updated,Normal
+PowerShell downloading payload,Malware
+Database query contains OR 1=1,SQLInjection
+Database query contains OR 1=1,SQLInjection
+Admin login failed 15 times,BruteForce
+Account locked after login failures,BruteForce
+Unknown binary executed,Malware
+PowerShell downloading payload,Malware
+Executable launched from temp folder,Malware
+Suspicious process spawned,Malware
+Unknown binary executed,Malware
+API request completed,Normal
+PowerShell downloading payload,Malware
+Encoded PowerShell command executed,Malware
+Account locked after login failures,BruteForce
+Database injection blocked,SQLInjection
+DROP TABLE command detected,SQLInjection
+Failed login from unknown IP,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+Password changed successfully,Normal
+Malware signature detected,Malware
+Javascript injected into input,XSS
+System health check passed,Normal
+DROP TABLE command detected,SQLInjection
+Unknown binary executed,Malware
+System health check passed,Normal
+API request completed,Normal
+Report generated successfully,Normal
+Rapid authentication failures,BruteForce
+Password changed successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+UNION SELECT detected,SQLInjection
+Javascript injected into input,XSS
+Malware signature detected,Malware
+Malicious HTML submitted,XSS
+Javascript injected into input,XSS
+Cross-site scripting detected,XSS
+Encoded PowerShell command executed,Malware
+Cross-site scripting detected,XSS
+Configuration updated,Normal
+XSS payload blocked,XSS
+Encoded PowerShell command executed,Malware
+Database injection blocked,SQLInjection
+SQL injection attempt,SQLInjection
+Unknown binary executed,Malware
+Failed login from unknown IP,BruteForce
+Admin login failed 15 times,BruteForce
+Report generated successfully,Normal
+Account locked after login failures,BruteForce
+Repeated password failures,BruteForce
+<script>alert('xss')</script>,XSS
+Suspicious SQL statement,SQLInjection
+Suspicious process spawned,Malware
+Report generated successfully,Normal
+Malicious HTML submitted,XSS
+Unknown binary executed,Malware
+Account locked after login failures,BruteForce
+Unknown binary executed,Malware
+Admin login failed 15 times,BruteForce
+Executable launched from temp folder,Malware
+Cross-site scripting detected,XSS
+Rapid authentication failures,BruteForce
+Failed login from unknown IP,BruteForce
+Admin login failed 15 times,BruteForce
+Malware signature detected,Malware
+Javascript injected into input,XSS
+Database query contains OR 1=1,SQLInjection
+Repeated password failures,BruteForce
+Database backup completed,Normal
+Password changed successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+Suspicious process spawned,Malware
+Password changed successfully,Normal
+PowerShell downloading payload,Malware
+DROP TABLE command detected,SQLInjection
+User logged in successfully,Normal
+Report generated successfully,Normal
+PowerShell downloading payload,Malware
+Multiple failed SSH login attempts,BruteForce
+Email sent successfully,Normal
+Rapid authentication failures,BruteForce
+File uploaded successfully,Normal
+Javascript injected into input,XSS
+Configuration updated,Normal
+User logged in successfully,Normal
+Suspicious process spawned,Malware
+<script>alert('xss')</script>,XSS
+Rapid authentication failures,BruteForce
+Configuration updated,Normal
+Report generated successfully,Normal
+Repeated password failures,BruteForce
+Multiple failed SSH login attempts,BruteForce
+Malware signature detected,Malware
+Javascript injected into input,XSS
+Suspicious SQL statement,SQLInjection
+Account locked after login failures,BruteForce
+Unknown binary executed,Malware
+Password changed successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+Unknown binary executed,Malware
+System health check passed,Normal
+Suspicious SQL statement,SQLInjection
+Executable launched from temp folder,Malware
+Malicious HTML submitted,XSS
+System health check passed,Normal
+Repeated password failures,BruteForce
+Cross-site scripting detected,XSS
+Executable launched from temp folder,Malware
+Javascript injected into input,XSS
+UNION SELECT detected,SQLInjection
+UNION SELECT detected,SQLInjection
+PowerShell downloading payload,Malware
+SSH brute force detected,BruteForce
+XSS payload blocked,XSS
+Database query contains OR 1=1,SQLInjection
+Report generated successfully,Normal
+Malicious HTML submitted,XSS
+Suspicious SQL statement,SQLInjection
+Database injection blocked,SQLInjection
+Dashboard viewed,Normal
+SELECT * FROM users WHERE,SQLInjection
+Report generated successfully,Normal
+PowerShell downloading payload,Malware
+Dashboard viewed,Normal
+Executable launched from temp folder,Malware
+Suspicious process spawned,Malware
+UNION SELECT detected,SQLInjection
+UNION SELECT detected,SQLInjection
+Malware signature detected,Malware
+Report generated successfully,Normal
+Cross-site scripting detected,XSS
+DROP TABLE command detected,SQLInjection
+User logged in successfully,Normal
+<script>alert('xss')</script>,XSS
+User logged in successfully,Normal
+Too many login attempts detected,BruteForce
+Too many login attempts detected,BruteForce
+Malware signature detected,Malware
+Malware signature detected,Malware
+Account locked after login failures,BruteForce
+Multiple failed SSH login attempts,BruteForce
+User logged in successfully,Normal
+Executable launched from temp folder,Malware
+SSH brute force detected,BruteForce
+Cross-site scripting detected,XSS
+Password changed successfully,Normal
+Suspicious process spawned,Malware
+Suspicious process spawned,Malware
+Multiple failed SSH login attempts,BruteForce
+Suspicious process spawned,Malware
+Password changed successfully,Normal
+Cross-site scripting detected,XSS
+User logged in successfully,Normal
+Dashboard viewed,Normal
+Report generated successfully,Normal
+System health check passed,Normal
+PowerShell downloading payload,Malware
+Unknown binary executed,Malware
+Database injection blocked,SQLInjection
+Multiple failed SSH login attempts,BruteForce
+Javascript injected into input,XSS
+SQL injection attempt,SQLInjection
+PowerShell downloading payload,Malware
+Report generated successfully,Normal
+Malware signature detected,Malware
+DROP TABLE command detected,SQLInjection
+Rapid authentication failures,BruteForce
+Executable launched from temp folder,Malware
+Malware signature detected,Malware
+Malware signature detected,Malware
+SELECT * FROM users WHERE,SQLInjection
+Malware signature detected,Malware
+Too many login attempts detected,BruteForce
+Javascript injected into input,XSS
+API request completed,Normal
+System health check passed,Normal
+Malicious HTML submitted,XSS
+Javascript injected into input,XSS
+Suspicious process spawned,Malware
+<script>alert('xss')</script>,XSS
+Unknown binary executed,Malware
+Executable launched from temp folder,Malware
+Database backup completed,Normal
+Cross-site scripting detected,XSS
+XSS payload blocked,XSS
+Database backup completed,Normal
+Suspicious process spawned,Malware
+SELECT * FROM users WHERE,SQLInjection
+SQL injection attempt,SQLInjection
+Account locked after login failures,BruteForce
+XSS payload blocked,XSS
+UNION SELECT detected,SQLInjection
+Rapid authentication failures,BruteForce
+Account locked after login failures,BruteForce
+Malicious HTML submitted,XSS
+Admin login failed 15 times,BruteForce
+Javascript injected into input,XSS
+PowerShell downloading payload,Malware
+Multiple failed SSH login attempts,BruteForce
+Cross-site scripting detected,XSS
+Suspicious SQL statement,SQLInjection
+Rapid authentication failures,BruteForce
+Configuration updated,Normal
+Database query contains OR 1=1,SQLInjection
+Email sent successfully,Normal
+Repeated password failures,BruteForce
+Cross-site scripting detected,XSS
+SQL injection attempt,SQLInjection
+Password changed successfully,Normal
+Failed login from unknown IP,BruteForce
+Repeated password failures,BruteForce
+Suspicious process spawned,Malware
+Cross-site scripting detected,XSS
+Database injection blocked,SQLInjection
+Database injection blocked,SQLInjection
+DROP TABLE command detected,SQLInjection
+Unknown binary executed,Malware
+Malicious HTML submitted,XSS
+SELECT * FROM users WHERE,SQLInjection
+Repeated password failures,BruteForce
+System health check passed,Normal
+Dashboard viewed,Normal
+Executable launched from temp folder,Malware
+XSS payload blocked,XSS
+SQL injection attempt,SQLInjection
+XSS payload blocked,XSS
+Cross-site scripting detected,XSS
+Database query contains OR 1=1,SQLInjection
+Account locked after login failures,BruteForce
+Repeated password failures,BruteForce
+<script>alert('xss')</script>,XSS
+SQL injection attempt,SQLInjection
+Database injection blocked,SQLInjection
+Database injection blocked,SQLInjection
+Javascript injected into input,XSS
+Malware signature detected,Malware
+SQL injection attempt,SQLInjection
+SELECT * FROM users WHERE,SQLInjection
+Suspicious process spawned,Malware
+XSS payload blocked,XSS
+User logged in successfully,Normal
+DROP TABLE command detected,SQLInjection
+UNION SELECT detected,SQLInjection
+Suspicious process spawned,Malware
+Dashboard viewed,Normal
+UNION SELECT detected,SQLInjection
+Database backup completed,Normal
+System health check passed,Normal
+Database query contains OR 1=1,SQLInjection
+Admin login failed 15 times,BruteForce
+SSH brute force detected,BruteForce
+Repeated password failures,BruteForce
+Javascript injected into input,XSS
+SELECT * FROM users WHERE,SQLInjection
+Email sent successfully,Normal
+Unknown binary executed,Malware
+Password changed successfully,Normal
+Multiple failed SSH login attempts,BruteForce
+Javascript injected into input,XSS
+Cross-site scripting detected,XSS
+Admin login failed 15 times,BruteForce
+Encoded PowerShell command executed,Malware
+<script>alert('xss')</script>,XSS
+Suspicious process spawned,Malware
+Unknown binary executed,Malware
+Repeated password failures,BruteForce
+Cross-site scripting detected,XSS
+Database injection blocked,SQLInjection
+Unknown binary executed,Malware
+Too many login attempts detected,BruteForce
+Suspicious SQL statement,SQLInjection
+Malicious HTML submitted,XSS
+Repeated password failures,BruteForce
+Repeated password failures,BruteForce
+API request completed,Normal
+Unknown binary executed,Malware
+Javascript injected into input,XSS
+User logged in successfully,Normal
+Cross-site scripting detected,XSS
+PowerShell downloading payload,Malware
+Dashboard viewed,Normal
+Javascript injected into input,XSS
+UNION SELECT detected,SQLInjection
+Account locked after login failures,BruteForce
+Database query contains OR 1=1,SQLInjection
+PowerShell downloading payload,Malware
+System health check passed,Normal
+Configuration updated,Normal
+Database backup completed,Normal
+API request completed,Normal
+Malware signature detected,Malware
+SSH brute force detected,BruteForce
+Javascript injected into input,XSS
+Javascript injected into input,XSS
+Suspicious SQL statement,SQLInjection
+XSS payload blocked,XSS
+Database query contains OR 1=1,SQLInjection
+Report generated successfully,Normal
+Executable launched from temp folder,Malware
+Suspicious process spawned,Malware
+Too many login attempts detected,BruteForce
+Javascript injected into input,XSS
+SQL injection attempt,SQLInjection
+Unknown binary executed,Malware
+Failed login from unknown IP,BruteForce
+Javascript injected into input,XSS
+Email sent successfully,Normal
+SSH brute force detected,BruteForce
+Cross-site scripting detected,XSS
+Database backup completed,Normal
+Encoded PowerShell command executed,Malware
+SSH brute force detected,BruteForce
+Unknown binary executed,Malware
+UNION SELECT detected,SQLInjection
+DROP TABLE command detected,SQLInjection
+Suspicious process spawned,Malware
+Database query contains OR 1=1,SQLInjection
+PowerShell downloading payload,Malware
+Database query contains OR 1=1,SQLInjection
+Database backup completed,Normal
+Unknown binary executed,Malware
+SQL injection attempt,SQLInjection
+Account locked after login failures,BruteForce
+Dashboard viewed,Normal
+SSH brute force detected,BruteForce
+UNION SELECT detected,SQLInjection
+Admin login failed 15 times,BruteForce
+SELECT * FROM users WHERE,SQLInjection
+UNION SELECT detected,SQLInjection
+Malicious HTML submitted,XSS
+Suspicious process spawned,Malware
+Rapid authentication failures,BruteForce
+Javascript injected into input,XSS
+Javascript injected into input,XSS
+Cross-site scripting detected,XSS
+SELECT * FROM users WHERE,SQLInjection
+Encoded PowerShell command executed,Malware
+Account locked after login failures,BruteForce
+Cross-site scripting detected,XSS
+PowerShell downloading payload,Malware
+Suspicious SQL statement,SQLInjection
+<script>alert('xss')</script>,XSS
+Dashboard viewed,Normal
+SQL injection attempt,SQLInjection
+<script>alert('xss')</script>,XSS
+XSS payload blocked,XSS
+Database injection blocked,SQLInjection
+PowerShell downloading payload,Malware
+PowerShell downloading payload,Malware
+Malware signature detected,Malware
+Failed login from unknown IP,BruteForce
+Database injection blocked,SQLInjection
+Configuration updated,Normal
+Javascript injected into input,XSS
+Too many login attempts detected,BruteForce
+Report generated successfully,Normal
+Email sent successfully,Normal
+<script>alert('xss')</script>,XSS
+Failed login from unknown IP,BruteForce
+File uploaded successfully,Normal
+Suspicious SQL statement,SQLInjection

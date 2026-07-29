@@ -1,0 +1,19 @@
+Failed login attempt from unknown IP
+
+Multiple failed SSH login attempts
+
+User logged in successfully
+
+Malicious JavaScript detected in input field
+
+SQL query contains OR 1=1
+
+Downloaded suspicious executable
+
+Password reset successful
+
+XSS payload detected
+
+Repeated login failures from 192.168.1.55
+
+Database query failed due to injection attempt
